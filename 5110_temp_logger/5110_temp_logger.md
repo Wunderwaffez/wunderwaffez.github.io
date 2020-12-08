@@ -21,9 +21,9 @@ If you want to stop logging in the middle of the process press "reset" button on
 - OneWire.h
 
 ## Useful Links
-LCD_5110 library: http://www.rinkydinkelectronics.com/library.php?id=48 
-Github page: https://github.com/Wunderwaffez/5110_temp_logger
----
+- LCD_5110 library: http://www.rinkydinkelectronics.com/library.php?id=48 
+- Github page: https://github.com/Wunderwaffez/5110_temp_logger
+
 ![Fritzing Schematic](connections.jpg)
 
 
