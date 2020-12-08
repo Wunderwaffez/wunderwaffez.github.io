@@ -1,10 +1,4 @@
-## Welcome to my project hub.
 
-<p align="center">
-  <b>Some Links:</b><br>
-  <a href="#">Link 1</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
-  <br><br>
-  <img src="http://s.4cdn.org/image/title/105.gif">
-</p>
+<h align="center">
+  <b>Welcome to my project hub</b><br>
+</h>
