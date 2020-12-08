@@ -4,4 +4,4 @@
 
 ---
 
-### <div align="center"><a href="https://wunderwaffez.github.io">Main Page</a> | <a href="https://wunderwaffez.github.io/about">About Me</a> | <a href="https://github.com/Wunderwaffez">My Github Profile</a></div>
+### <!a href="https://wunderwaffez.github.io">Main Page</a> | <a href="https://wunderwaffez.github.io/about">About Me</a> | <a href="https://github.com/Wunderwaffez">My Github Profile</a>
