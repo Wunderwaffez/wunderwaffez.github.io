@@ -1,1 +1,1 @@
-<h align= "justify" > Welcome to my project hub. <h>
+<h align= "center" > Welcome to my project hub. <h>
