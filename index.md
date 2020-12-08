@@ -1,3 +1,3 @@
 ## My Recent Projects
 
-- [Arduino based Nokia 5110 and DS18B20 temperature logger and graph plotter](https://wunderwaffez.github.io/about.md)
+- <a href="https://wunderwaffez.github.io/5110_temp_logger/">Arduino based Nokia 5110 and DS18B20 temperature logger and graph plotter</a>
