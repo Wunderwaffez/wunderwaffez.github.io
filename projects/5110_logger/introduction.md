@@ -1,7 +1,3 @@
-### <a href="https://wunderwaffez.github.io">Main Page</a> | <a href="https://wunderwaffez.github.io/about">About Me</a> | <a href="https://github.com/Wunderwaffez">My Github Profile</a> 
-{: style="text-align: center"}
-
----
 
 # Nokia 5110 Temperature Logger
 An **Arduino** based project that uses **Nokia 5110 screen as display** and **DS18B20** temperature sensor. Please read the whole text.
