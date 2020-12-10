@@ -1,5 +1,8 @@
 # ESP8266 based WiFi Weather Station with 16x2 LCD
 
+## [Download](https://github.com/Wunderwaffez/5110_temp_logger)
+{: style="text-align: center"}
+
 ## What is this ?
 
 This is a basic example of how to get weather data from OpenWeatherMap.org and display it on LCD display. **This code is originally written by Nick Koumaris aka educ8s.tv.** He used parallel LCD display in his project and I just changed it to use with I2C LCD display. If it doesn't work with your LCD try changing I2C address of LCD according to your I2C backpack.
@@ -21,4 +24,5 @@ This is a basic example of how to get weather data from OpenWeatherMap.org and d
 ## Schematic
 ![](i2c-connections.jpg "D2 SDA / D1 SCL")
 
-
+### <a href="https://wunderwaffez.github.io">Main Page</a> | <a href="https://wunderwaffez.github.io/about">About Me</a>
+{: style="text-align: center"}
