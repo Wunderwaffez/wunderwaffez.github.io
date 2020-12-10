@@ -1,6 +1,6 @@
 # ESP8266 based WiFi Weather Station with 16x2 LCD
 
-## [Download](https://github.com/Wunderwaffez/5110_temp_logger)
+## [Download](https://github.com/Wunderwaffez/esp8266-owm-i2c)
 {: style="text-align: center"}
 
 ## What is this ?
