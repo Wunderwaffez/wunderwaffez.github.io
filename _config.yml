@@ -2,6 +2,9 @@ theme: jekyll-theme-hacker
 
 title: Wunderwaffez's Project Hub
 description: The place where you and I can easily access my projects.
+google_analytics: [G-YTG7517589]
 
 github:
   is_project_page: false
+  
+
